@@ -3465,7 +3465,7 @@ textarea.form-control-lg {
 
 .btn-link {
   font-weight: 500;
-  color: #2937f0;
+  color: #f7f7f8;
   text-decoration: underline;
 }
 .btn-link:hover {
@@ -11530,6 +11530,7 @@ footer a:hover, footer a:active, footer a:focus {
   padding-top: 9.5rem;
   padding-bottom: 5rem;
 }
+
 .masthead .masthead-device-mockup {
   display: flex;
   align-items: center;
@@ -11615,3 +11616,4 @@ footer a:hover, footer a:active, footer a:focus {
   font-size: 60px;
   margin-top: 0px;
 }
+
